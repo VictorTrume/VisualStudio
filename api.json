@@ -1,0 +1,89 @@
+[
+    {
+        "precio": 60.00,
+        "id": 1, 
+        "Comp": "Nintendo",
+        "title": "Super Smash Bros Ultimate",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/Fotos%20Juegos/j111.jpg" 
+    },
+    {
+        "precio": 60.00,
+        "id": 2,
+        "Comp": "SEGA",
+        "title": "Sonic Frontiers",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/Fotos%20Juegos/J2.jpg" 
+    },
+    {
+        "precio": 0,
+        "id": 3,
+        "Comp": "SEGA",
+        "title": "Sonic Forces",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/Fotos%20Juegos/j3.jpg" 
+    },
+    {
+        "precio": 60.00,
+        "id": 4,
+        "Comp": "Nintendo",
+        "title": "Super Mario Odyssey",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/Fotos%20Juegos/j4.jpg" 
+    },
+    {
+        "precio": 60.00,
+        "id": 5,
+        "Comp": "Nintendo",
+        "title": "Super Mario 3D World + Bowsers Fury",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/Fotos%20Juegos/j5.jpg" 
+    },
+    {
+        "precio": 30.00,
+        "id": 6,
+        "Comp": "SEGA",
+        "title": "Sonic Mania",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/Fotos%20Juegos/j6.jpg" 
+    },
+    {
+        "precio": 60.00,
+        "id": 7,
+        "Comp": "Nintendo",
+        "title": "The legend of Zelda: Breath of the Wild",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/Fotos%20Juegos/j7.jpg" 
+    },
+    {
+        "precio": 60.00,
+        "id": 8,
+        "Comp": "Nintendo",
+        "title": "Metroid Dread",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/Fotos%20Juegos/j8.jfif" 
+    },
+    {
+        "precio": 60.00,
+        "id": 9,
+        "Comp": "Nintendo",
+        "title": "Animal Crossing: New Horizons",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/Fotos%20Juegos/j9.jpg" 
+    },
+    {
+        "precio": 40.00,
+        "id": 10,
+        "Comp": "BANDAI NAMCO",
+        "title": "Dragon Ball Z: Kakarot",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/Fotos%20Juegos/j10.jpg" 
+    },
+    {
+        "precio": 60.00,
+        "id": 11,
+        "Comp": "Nintendo",
+        "title": "The legend of Zelda: Link's Awakening",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/Fotos%20Juegos/j11.jpg"
+    },
+    {
+        "precio": 55.00,
+        "id": 12,
+        "Comp": "Nintendo",
+        "title": "Mario Kart 8 DELUXE",
+        "thumbnailUrl": "https://211294.000webhostapp.com/Proyectos/Fotos%20Juegos/j12.jpg" 
+    }
+
+
+
+]
